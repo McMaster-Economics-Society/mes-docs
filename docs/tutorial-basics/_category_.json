@@ -1,8 +1,8 @@
 {
-  "label": "Tutorial - Basics",
+  "label": "Tutorial - Edit the website",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "Below are a bunch of how-to guides to help you edit or update webpage components on MES website!"
   }
 }
